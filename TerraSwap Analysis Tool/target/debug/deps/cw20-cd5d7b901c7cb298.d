@@ -1,0 +1,13 @@
+/home/pjdurden/Desktop/stader repos/CoinSwap-using-Cosmwasm-and-Terraswap/TerraSwap Gas Analysis Tool/target/debug/deps/cw20-cd5d7b901c7cb298.rmeta: /home/pjdurden/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-0.8.1/src/lib.rs /home/pjdurden/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-0.8.1/src/balance.rs /home/pjdurden/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-0.8.1/src/coin.rs /home/pjdurden/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-0.8.1/src/denom.rs /home/pjdurden/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-0.8.1/src/helpers.rs /home/pjdurden/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-0.8.1/src/logo.rs /home/pjdurden/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-0.8.1/src/msg.rs /home/pjdurden/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-0.8.1/src/query.rs /home/pjdurden/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-0.8.1/src/receiver.rs
+
+/home/pjdurden/Desktop/stader repos/CoinSwap-using-Cosmwasm-and-Terraswap/TerraSwap Gas Analysis Tool/target/debug/deps/cw20-cd5d7b901c7cb298.d: /home/pjdurden/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-0.8.1/src/lib.rs /home/pjdurden/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-0.8.1/src/balance.rs /home/pjdurden/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-0.8.1/src/coin.rs /home/pjdurden/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-0.8.1/src/denom.rs /home/pjdurden/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-0.8.1/src/helpers.rs /home/pjdurden/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-0.8.1/src/logo.rs /home/pjdurden/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-0.8.1/src/msg.rs /home/pjdurden/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-0.8.1/src/query.rs /home/pjdurden/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-0.8.1/src/receiver.rs
+
+/home/pjdurden/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-0.8.1/src/lib.rs:
+/home/pjdurden/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-0.8.1/src/balance.rs:
+/home/pjdurden/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-0.8.1/src/coin.rs:
+/home/pjdurden/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-0.8.1/src/denom.rs:
+/home/pjdurden/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-0.8.1/src/helpers.rs:
+/home/pjdurden/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-0.8.1/src/logo.rs:
+/home/pjdurden/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-0.8.1/src/msg.rs:
+/home/pjdurden/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-0.8.1/src/query.rs:
+/home/pjdurden/.cargo/registry/src/github.com-1ecc6299db9ec823/cw20-0.8.1/src/receiver.rs:

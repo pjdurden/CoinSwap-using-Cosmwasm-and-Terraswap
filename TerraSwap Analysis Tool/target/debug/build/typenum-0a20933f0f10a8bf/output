@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/pjdurden/Desktop/stader repos/CoinSwap-using-Cosmwasm-and-Terraswap/TerraSwap Gas Analysis Tool/target/debug/build/typenum-0a20933f0f10a8bf/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/pjdurden/Desktop/stader repos/CoinSwap-using-Cosmwasm-and-Terraswap/TerraSwap Gas Analysis Tool/target/debug/build/typenum-0a20933f0f10a8bf/out/op.rs

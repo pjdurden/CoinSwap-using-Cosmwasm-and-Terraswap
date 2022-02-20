@@ -1,0 +1,1 @@
+762947e652a28ee3e80613ab4e192b8bf43ffa610ae41cfc045aa36d622f9210  ./target/wasm32-unknown-unknown/release/terra_swap_cases.wasm
