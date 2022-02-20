@@ -1,0 +1,1 @@
+6c8b546a62cc9022af03236fc817ee0ed5327ef0cd49467d34980d75821c7edc  ./target/wasm32-unknown-unknown/release/swap_msg_cosmwasm.wasm

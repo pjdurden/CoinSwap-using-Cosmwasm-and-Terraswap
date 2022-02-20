@@ -1,0 +1,1 @@
+f54852a93b318eed595c863f2bf9ab3ec1afe104283d60219db7f3c959f81279  ./target/wasm32-unknown-unknown/release/terraswap_pj.wasm
