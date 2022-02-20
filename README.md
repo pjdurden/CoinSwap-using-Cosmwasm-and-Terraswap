@@ -1,13 +1,13 @@
-# CosmWasm Starter Pack
+# Coinswap Starter Pack
 
-This is a template to build smart contracts in Rust to run inside a
+This is a Smart Contract built in Rust to run inside
 [Cosmos SDK](https://github.com/cosmos/cosmos-sdk) module on all chains that enable it.
 To understand the framework better, please read the overview in the
 [cosmwasm repo](https://github.com/CosmWasm/cosmwasm/blob/master/README.md),
 and dig into the [cosmwasm docs](https://www.cosmwasm.com).
 This assumes you understand the theory and just want to get coding.
 
-## Creating a new repo from template
+## Creating a new Contract
 
 Assuming you have a recent version of rust and cargo (v1.51.0+) installed
 (via [rustup](https://rustup.rs/)),
